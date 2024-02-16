@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bubble Sort Kabarcik Siralamasi/Bubble Sort Kabarcik Siralamasi.iml" filepath="$PROJECT_DIR$/Bubble Sort Kabarcik Siralamasi/Bubble Sort Kabarcik Siralamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection Sort Secmeli Siralama/Selection Sort Secmeli Siralama.iml" filepath="$PROJECT_DIR$/Selection Sort Secmeli Siralama/Selection Sort Secmeli Siralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sıralama ALgoritması.iml" filepath="$PROJECT_DIR$/.idea/Sıralama ALgoritması.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertion Sort eklemeli Siralama/insertion Sort eklemeli Siralama.iml" filepath="$PROJECT_DIR$/insertion Sort eklemeli Siralama/insertion Sort eklemeli Siralama.iml" />
+    </modules>
+  </component>
+</project>
